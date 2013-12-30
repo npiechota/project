@@ -1,3 +1,3 @@
 project
 =======
-a simple repository
+a simple project
