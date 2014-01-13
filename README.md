@@ -1,3 +1,0 @@
-project
-=======
-a simple project
